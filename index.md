@@ -4,7 +4,7 @@ title: Welcome to my blog
 
 ## About Me
 
-Hi! My name is Chen Hanzheng, and I am currently a student at ZJU.
+Hi! My name is **Chen Hanzheng**, and I am currently a student at ZJU.
 
 ### Education
 - Undergraduate college: Zhejiang University
