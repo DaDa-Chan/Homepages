@@ -13,7 +13,7 @@ Hi! My name is **Chen Hanzheng**, and I am currently a student at ZJU.
 
 ### Skills & Interests
 - Programing Languages: Python , C++
-- Enthusiastic about: Machine Learning,Deep Learning
+- Enthusiastic about: Machine Learning & Deep Learning & Casual Inference
 
 ### Projects
 - **OOP**: Assignments of OOP
